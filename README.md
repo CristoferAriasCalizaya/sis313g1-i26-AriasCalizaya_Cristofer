@@ -1,2 +1,3 @@
 # Diseño y Programacion Grafica 
-# Cristofer Arias Calizaya 
+## Cristofer Arias Calizaya 
+## Grupo 1
